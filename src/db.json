@@ -1,0 +1,15 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "taskCond": "Choose the right answer",
+        "question": "Which shape shows third?",
+        "image": {        
+          "url": "/img/task_img.11675ea2.png",
+          "alt": "charts"
+        },
+        "choices": ["A", "B", "C"],
+        "correctAnswer": "A"
+      }
+    ]
+}
